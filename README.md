@@ -4,7 +4,7 @@
 Santa's Naughty List is an application to help Santa track children's information and behavior. Naughty children can be added and searched. Their information can be updated and nice children can be deleted from the list. 
 
 # How I built it
-The frontend was built using Python and Tkinker. The backend was built using SQlite.
+The frontend was built using Python and Tkinker. The backend was built using SQLite.
 
 # Video Walkthrough
 Users can:
