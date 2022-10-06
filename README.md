@@ -24,8 +24,4 @@ Users can:
 </ul>
 
 # Notes
-This was my very first programming project ever. I realized I enjoyed building and convince me to pivot my career into software engineering. 
-I will not add new features to this application. I plan to continue working on new projects.
-
-#License
-
+This was my very first programming project ever. Through this project, I realized I enjoyed building and it helped convince me to pivot my career into software engineering. I will not add new features to this application. I plan to continue working on new projects
