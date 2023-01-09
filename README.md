@@ -14,6 +14,8 @@ Users can:
     <li>Delete entries</li>
     <li>Search for entries using child ID</li>
   </ul>
+  <img src= 'santa_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+GIF created with <a href="https://www.cockos.com/licecap/">LICEcap.</a>
 
 # Tech/Framework
 <ul>
